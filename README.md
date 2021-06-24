@@ -80,10 +80,10 @@
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-######  Open project using Unity.
-######  Connect Oculus device.
-######  Play default scene - Oculus Application should open.
-######  Done!
+**Open project using Unity.**
+**Connect Oculus device.**
+**Play default scene - Oculus Application should open.**
+**Done!**
     
     
 
